@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+
+exploratory_prescription_data_analysis/appdata/*
+exploratory_prescription_data_analysis/data/*
+exploratory_prescription_data_analysis/geo_data/*
+exploratory_prescription_data_analysis/processed_data/*

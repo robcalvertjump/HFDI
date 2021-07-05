@@ -1,0 +1,9 @@
+- The 'IMD_*.csv' datasets come from [here](https://www.gov.uk/government/collections/english-indices-of-deprivation).
+    Download the file called "File 7: all ranks, deciles and scores for the indices of deprivation, and population denominators",
+    or "English indices of deprivation 2010: all domains, all sub domains and supplementary indices" for 2010.
+
+- 'LSOA_population_*.xls'. https://www.gov.uk/government/collections/english-indices-of-deprivation. Go to each year (2010, 2015, 2019) and do CTRL+F 'population'.
+
+- 'LSOA_to_CCG.csv' (LSAO to Clinical Commissioning Groups). https://data.gov.uk/dataset/1237f400-04db-4f19-b03e-665024a90598/lsoa-2011-to-clinical-commissioning-groups-to-sustainability-and-transformation-partnerships-april-2019-lookup-in-england
+
+- NHS Digital Quality and Outcomes Framework. https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data/quality-and-outcomes-framework-qof-2016-17

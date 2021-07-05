@@ -1,0 +1,13 @@
+Data sources:
+
+[English prescribing dataset](https://opendata.nhsbsa.net/dataset/english-prescribing-data-epd)
+
+[epd_202012.csv](https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/bcd4b82a-963b-4b89-9f27-ffcd90d3056f)
+
+[Postcode to MSOA/LSOA](https://geoportal.statistics.gov.uk/datasets/postcode-to-output-area-to-lower-layer-super-output-area-to-middle-layer-super-output-area-to-local-authority-district-august-2019-lookup-in-the-uk)
+
+[MSOA 2011 shapefile](https://geoportal.statistics.gov.uk/datasets/826dc85fb600440889480f4d9dbb1a24_0?geometry=-18.883%2C50.522%2C14.537%2C55.161)
+
+[GP postcodes (epraccur)](https://digital.nhs.uk/services/organisation-data-service/data-downloads/gp-and-gp-practice-related-data)
+
+[Useful BNF code resource](https://openprescribing.net/bnf/)
