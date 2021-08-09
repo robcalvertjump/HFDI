@@ -5,3 +5,9 @@ exploratory_prescription_data_analysis/appdata/*
 exploratory_prescription_data_analysis/data/*
 exploratory_prescription_data_analysis/geo_data/*
 exploratory_prescription_data_analysis/processed_data/*
+
+crime/data/*
+
+IMD_health_regression/helper_data/*
+IMD_health_regression/HFDI_data/*
+IMD_health_regression/IMD_data/*

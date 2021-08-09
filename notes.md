@@ -5,6 +5,8 @@
 [Might be useful (ADQs and stuff)](https://github.com/ebmdatalab/prescribing-queries/issues/31)
 
 
+The IMD release date does not correspond to the publication dates of the data they use.
+For example the 2015 IMD uses date from 2012/13
 
 
 Participation in QOF is voluntary, though participation rates are very high at 95.1 per cent.
