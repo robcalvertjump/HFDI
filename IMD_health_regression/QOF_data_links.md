@@ -3,6 +3,8 @@ All of the QOF datasets can be found [here](https://digital.nhs.uk/data-and-info
 For each of these, one we want is the one containing the *prevalence* data at a practice level, and for all of these it should suffice to just
 do CTRL+F to find it.
 
+The data we need are the prevalences in each disease domain at the GP level, as well as the number of patients in each GP.
+
 [2019-20](https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data/2019-20)
 
 [2018-19](https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data/2018-19-pas)
